@@ -39,10 +39,10 @@ Desktop, terminal, editor, launcher, notification, bar, lock screen, browser, Di
 
 ## Backgrounds
 
-The wallpapers are original illustrations, Lanczos-scaled to 4K:
+The wallpapers are original illustrations at 8K (8192 px wide):
 
 - [`orodruin`](backgrounds/orodruin.webp) — the mountain of fire
-- [`ungoliant`](backgrounds/ungoliant.webp) — the dark enemy and the spider
+- [`mornatárië`](backgrounds/mornatárië.webp) — the spider and the crowned shadow
 - [`barrow-downs`](backgrounds/barrow-downs.webp) — standing stones in the mist
 - [`minas-morgul`](backgrounds/minas-morgul.webp) — the moonlit citadel
 - [`riddles-in-the-dark`](backgrounds/riddles-in-the-dark.webp) — Gollum on the underground lake
